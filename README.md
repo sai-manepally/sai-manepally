@@ -5,7 +5,7 @@ I'm a Software Development Engineer in Test (SDET) with 7+ years of experience b
 - 🔭 Currently building automation frameworks with WebDriverIO, Appium, and TypeScript
 - 🌱 Focused on CI/CD integration, HIL testing, and framework architecture
 - 📫 Reach me: saikrishnamanepally02@gmail.com
-- 🔗 Portfolio: https://sai-manepally.github.io/sai-portfolio/
+- 🔗 Portfolio: https://sai-manepally.github.io/Sai-portfolio/
 
 ### 🛠️ Tools & Tech
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
